@@ -1,0 +1,27 @@
+img {
+    border-radius: 8px;
+	float:center;
+	margin: 3px;
+}
+h2 {
+	color: gray;
+	text-align: center;
+	font-style: italic;
+	}
+h1{
+	color: white;
+	text-align: center;
+	font-style: italic;
+	background-color: #004d4d
+	}
+a:link, a:visited {
+  text-decoration: none;
+  background-color: #004d4d;
+  border: 1px solid #004d4d;
+  color: white;
+  display: block;
+  width: 1425px;
+  text-align: center;
+  margin-bottom: 1px;
+  font-size: 25px;
+}
